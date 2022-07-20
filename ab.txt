@@ -1,3 +1,6 @@
 #!/bin/bash -x
 
 hello this is first commit
+
+
+today date is 21-07
